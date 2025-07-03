@@ -1,0 +1,5 @@
+train: ../dataset/images/train
+val: ../dataset/images/train  # use train set for both train/val if you don’t have val images
+
+nc: 1  # number of classes
+names: ['license_plate']
