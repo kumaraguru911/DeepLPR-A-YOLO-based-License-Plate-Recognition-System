@@ -115,12 +115,6 @@ python scripts/ocr_from_yolo_results.py
 
 ---
 
-## Contributors
-
-- [kumaraguru911](https://github.com/kumaraguru911)
-
----
-
 ## License
 
 This project is licensed under the MIT License.
